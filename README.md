@@ -25,4 +25,9 @@ Enthusiastic Full-Stack web developer interested and open to collaboration on pr
 
 ---
 
+### Contact Me: <br>
+E-mail: Oluwabukola.umaru@gmail.com<br>
+
+---
+
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OluwabukolaU"/>
