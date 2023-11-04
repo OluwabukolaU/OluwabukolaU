@@ -1,4 +1,4 @@
-# Oluwabukola Umaru
+# Sophia Umaru
 
 Enthusiastic Full-Stack web developer interested and open to collaboration on projects using Html, CSS, Javascript, Rest API,Python, Django etc
 
