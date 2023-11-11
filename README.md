@@ -1,6 +1,6 @@
 # Sophia Umaru
 
-Enthusiastic Full-Stack web developer interested and open to collaboration on projects using Html, CSS, Javascript, Rest API,Python, Django etc
+Enthusiastic Full-Stack web developer interested and open to collaboration on projects using Html, CSS, Javascript, React, Rest API,Python, Django etc
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Python+Developer)](https://git.io/typing-svg)
 
